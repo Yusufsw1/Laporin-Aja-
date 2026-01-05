@@ -60,6 +60,7 @@ Bash
 npm run dev
 💡 Innovation Focus
 This frontend is designed to solve the "Fake Reporting" problem. By implementing Spatial Verification, the app ensures that no report can be submitted without a valid coordinate. It bridges the gap between binary file data (EXIF) and real-time Geolocation APIs, creating a trustworthy reporting ecosystem.
+```
 
 🤝 Contact
 Yusuf - GitHub Profile
