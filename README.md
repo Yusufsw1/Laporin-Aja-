@@ -66,6 +66,6 @@ This frontend is designed to solve the "Fake Reporting" problem. By implementing
 
 
 🤝 Contact
-Yusuf - https://github.com/Yusufsw1
+Yusuf - [Github Profile](https://github.com/Yusufsw1)
 
 Live Project: https://laporin-aja.vercel.app/
