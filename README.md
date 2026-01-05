@@ -37,30 +37,33 @@ src/
 ├── hooks/          # Geolocation & Device API hooks
 ├── lib/            # EXIF Reader & Utility functions
 └── types/          # TypeScript Type Definitions
-
+```
 🚀 Getting Started
 1. Clone the repository
-Bash
-
+```bash
 git clone [https://github.com/Yusufsw1/Laporin-Aja-.git](https://github.com/Yusufsw1/Laporin-Aja-.git)
 cd Laporin-Aja-
+```
 2. Install dependencies
-Bash
-
+```bash
 npm install
+```
 3. Setup Environment Variables
+```
 Create a .env.local file:
 
 Cuplikan kode
 
 NEXT_PUBLIC_API_URL=http://localhost:4000/api/v1
+```
 4. Run Development Server
-Bash
+```Bash
 
 npm run dev
+```
 💡 Innovation Focus
 This frontend is designed to solve the "Fake Reporting" problem. By implementing Spatial Verification, the app ensures that no report can be submitted without a valid coordinate. It bridges the gap between binary file data (EXIF) and real-time Geolocation APIs, creating a trustworthy reporting ecosystem.
-```
+
 
 🤝 Contact
 Yusuf - GitHub Profile
